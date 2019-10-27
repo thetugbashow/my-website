@@ -1,20 +1,14 @@
 name: Tuğba Öztürk
 author: Tuğba Öztürk
-baseurl: /thetugbashow
+baseurl: https://thetugbashow.github.io
 description: Personal website
-# add LinkedIn, FaceBook?
 twitter: https://www.twitter.com/thetugbashow
 youtube: https://www.youtube.com/channel/UCIIYzSMHOeRg8X6jAC9Mmbg
-instagram:
+instagram: https://www.instagram.com/tugbashow/
 email: av.ozturktugba@gmail.com
 location: İzmir, Türkiye
 
-##Make sure to edit the above fields
-
-
-highlighter: pygments
-redcarpet:
-  extensions: ["tables"]
+highlighter: rouge
 
 defaults:
   - scope:
