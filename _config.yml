@@ -13,7 +13,6 @@ location: İzmir, Türkiye
 
 
 highlighter: pygments
-markdown: redcarpet
 redcarpet:
   extensions: ["tables"]
 
